@@ -26,8 +26,6 @@ This is the Structure I've uploaded daily progress of the Java Web Developement
 | DAY 60 - 2025.07.23 (Morning) | To Be Done  | To Be Done   | To Be Done  |
 | DAY 61 - 2025.07.23 (Evening) | To Be Done  | To Be Done   | To Be Done  |
 
-
-
 ---
 
 ## 🔗 Project Structure & Branches
@@ -141,6 +139,7 @@ File: `smart_trade.sql`
 
 * Ensure database is running and accessible.
 
+---
 
 ## 📚 Dependencies (JARs)
 
@@ -194,6 +193,8 @@ Make sure the following libraries are included in your `lib/` or classpath:
 
 *Remember to - **REPLACE YOUR DATABASE PASSWORD***
 
+---
+
 ## 🗄️ Database Files
 
 * The folder database ER & Full backup sql/ contains:
@@ -204,15 +205,18 @@ Make sure the following libraries are included in your `lib/` or classpath:
 
 * You can import this into your MySQL server using any tool like phpMyAdmin / MySQL Workbench / HeidiSQL / Navicat.
 
+---
 
 ## 📌 Notes
 
 Make sure MySQL is running and the database exists before running the application.
 
+---
 
 ## 📞 Contact
 For questions or improvements, feel free to open an issue or contact [Jude Thamel](https://github.com/JudeThamel).
 
+---
 
 ## License
 

@@ -1,6 +1,45 @@
-# 🛒 SmartTrade eCommerce Application
+<img width="369" height="175" alt="image" src="https://github.com/user-attachments/assets/4b38d72b-5efa-452e-827d-e4ba064e09a8" /># 🛒 SmartTrade eCommerce Application
 
-SmartTrade is a full-stack eCommerce web application designed for buying and selling products. It includes features like user authentication, product listing, advanced product search, cart checkout, and admin reporting.
+SmartTrade is a full-stack eCommerce web application designed for buying and selling products Using Java EE AKA Jakarta EE. It includes features like user authentication, product listing, advanced product search, cart checkout, and admin reporting.
+
+---
+
+## 📅 Daily Progress Overview
+
+This is the Structure I've uploaded daily progress of the Java Web Developement
+
+|    Date                       |   Frontend Folder   |    Backend Folder    |    Database Folder   |
+|-------------------------------|---------------------|----------------------|----------------------|
+
+| DAY 46 - 2025.07.14 (Morning) | `frontend/Day-01/`  | `backend/Day-01/`   | `database/Day-01/`  |
+
+| DAY 48 - 2025.07.15 (Morning) | `frontend/Day-02/`  | `backend/Day-02/`   | `database/Day-02/`  |
+
+| DAY 49 - 2025.07.15 (Evening) | `frontend/Day-03/`  | `backend/Day-03/`   | `database/Day-03/`  |
+
+| DAY 50 - 2025.07.16 (Morning) | `frontend/Day-04/`  | `backend/Day-04/`   | `database/Day-04/`  |
+
+| DAY 51 - 2025.07.16 (Evening) | `frontend/Day-05/`  | `backend/Day-05/`   | `database/Day-05/`  |
+
+| DAY 52 - 2025.07.17 (Morning) | `frontend/Day-05/`  | `backend/Day-05/`   | `database/Day-05/`  |
+
+| DAY 53 - 2025.07.17 (Evening) | `frontend/Day-05/`  | `backend/Day-05/`   | `database/Day-05/`  |
+
+| DAY 54 - 2025.07.18 (Morning) | `frontend/Day-05/`  | `backend/Day-05/`   | `database/Day-05/`  |
+
+| DAY 55 - 2025.07.18 (Evening) | `frontend/Day-05/`  | `backend/Day-05/`   | `database/Day-05/`  |
+
+| DAY 56 - 2025.07.21 (Morning) | `frontend/Day-04/`  | `backend/Day-04/`   | `database/Day-04/`  |
+
+| DAY 57 - 2025.07.21 (Evening) | `frontend/Day-05/`  | `backend/Day-05/`   | `database/Day-05/`  |
+
+| DAY 58 - 2025.07.22 (Morning) | `frontend/Day-05/`  | `backend/Day-05/`   | `database/Day-05/`  |
+
+| DAY 59 - 2025.07.22 (Evening) | `frontend/Day-05/`  | `backend/Day-05/`   | `database/Day-05/`  |
+
+| DAY 60 - 2025.07.23 (Morning) | `frontend/Day-05/`  | `backend/Day-05/`   | `database/Day-05/`  |
+
+| DAY 61 - 2025.07.23 (Evening) | `frontend/Day-05/`  | `backend/Day-05/`   | `database/Day-05/`  |
 
 
 

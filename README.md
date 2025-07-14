@@ -10,7 +10,7 @@ This is the Structure I've uploaded daily progress of the Java Web Developement
 
 |    Date                       |   Frontend Folder   |    Backend Folder    |    Database Folder   |
 |-------------------------------|---------------------|----------------------|----------------------|
-| DAY 46 - 2025.07.14 (Morning) | `N/A`  | `N/A`   | `database/Day-01/`  |
+| DAY 46 - 2025.07.14 (Morning) | `N/A`  | `N/A`   | `Database ER Creation`  |
 | DAY 48 - 2025.07.15 (Morning) | To Be Done  | To Be Done   | To Be Done  |
 | DAY 49 - 2025.07.15 (Evening) | To Be Done  | To Be Done   | To Be Done  |
 | DAY 50 - 2025.07.16 (Morning) | To Be Done  | To Be Done   | To Be Done  |

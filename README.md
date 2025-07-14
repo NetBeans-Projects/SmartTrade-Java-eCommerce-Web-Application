@@ -10,7 +10,7 @@ This is the Structure I've uploaded daily progress of the Java Web Developement
 
 |    Date                       |   Frontend Folder   |    Backend Folder    |    Database Folder   |
 |:-----------------------------:|:-------------------:|:--------------------:|:--------------------:|
-| DAY 46 - 2025.07.14 (Morning) | `N/A`  | `N/A`   | `Database ER Creation`  |
+| DAY 46 - 2025.07.14 (Morning) | `N/A`  | `N/A`   | [`Database ER Creation`](http://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/database/DAY%2046%20-%202025.07.14%20(Morning)%20-%20Database%20ER%20Creation)  |
 | DAY 48 - 2025.07.15 (Morning) | To Be Done  | To Be Done   | To Be Done  |
 | DAY 49 - 2025.07.15 (Evening) | To Be Done  | To Be Done   | To Be Done  |
 | DAY 50 - 2025.07.16 (Morning) | To Be Done  | To Be Done   | To Be Done  |

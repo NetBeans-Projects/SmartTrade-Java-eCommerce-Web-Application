@@ -189,6 +189,15 @@ Make sure MySQL is running and the database exists before running the applicatio
 ## 📞 Contact
 For questions or improvements, feel free to open an issue or contact [Jude Thamel](https://github.com/JudeThamel).
 
+
+## License
+
+This project is licensed under **JudeThamel License v1.0**.  
+Only personal and educational use is allowed. Commercial or modified use is strictly prohibited without written permission.
+
+[View Full License](./LICENSE)
+
+
 <br />
 <br />
 <br />

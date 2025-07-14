@@ -9,7 +9,7 @@ SmartTrade is a full-stack eCommerce web application designed for buying and sel
 This is the Structure I've uploaded daily progress of the Java Web Developement
 
 |    Date                       |   Frontend Folder   |    Backend Folder    |    Database Folder   |
-|-------------------------------|---------------------|----------------------|----------------------|
+|:-----------------------------:|:-------------------:|:--------------------:|:--------------------:|
 | DAY 46 - 2025.07.14 (Morning) | `N/A`  | `N/A`   | `Database ER Creation`  |
 | DAY 48 - 2025.07.15 (Morning) | To Be Done  | To Be Done   | To Be Done  |
 | DAY 49 - 2025.07.15 (Evening) | To Be Done  | To Be Done   | To Be Done  |

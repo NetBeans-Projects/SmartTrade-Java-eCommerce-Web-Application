@@ -124,7 +124,7 @@ This is the Structure I've uploaded daily progress of the Java Web Developement
       <td>To Be Done</td>
       <td>To Be Done</td>
     </tr>
-    <tr style="background-color: #e6ffe6;">
+    <tr style="background-color: #ffffff;">
       <td><strong>FULL COMPLETED PROJECT (Frontend & Backend)</strong></td>
       <td colspan="3"><strong> Live Update Project</strong></td>
     </tr>

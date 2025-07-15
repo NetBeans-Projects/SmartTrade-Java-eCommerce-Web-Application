@@ -24,112 +24,26 @@ Do not:
 
 This is the Structure I've uploaded daily progress of the Java Web Developement
 
-<table style="text-align: center; width: 100%;">
-  <thead>
-    <tr>
-      <th style="text-align: center;">Date</th>
-      <th style="text-align: center;">Frontend Folder</th>
-      <th style="text-align: center;">Backend Folder</th>
-      <th style="text-align: center;">Database Folder</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: center;">DAY 46 - 2025.07.14 (Morning)</td>
-      <td style="text-align: center;">N/A</td>
-      <td style="text-align: center;">N/A</td>
-      <td style="text-align: center;"><a href="https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/database/DAY%2046%20-%202025.07.14%20(Morning)%20-%20Database%20ER%20Creation">Database ER Creation</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: center;">DAY 48 - 2025.07.15 (Morning)</td>
-      <td style="text-align: center;">To Be Done</td>
-      <td style="text-align: center;">To Be Done</td>
-      <td style="text-align: center;">Database ER Update & Forward Engineer</td>
-    </tr>
-    <tr>
-      <td style="text-align: center;">DAY 49 - 2025.07.15 (Evening)</td>
-      <td style="text-align: center;">To Be Done</td>
-      <td style="text-align: center;">To Be Done</td>
-      <td style="text-align: center;">To Be Done</td>
-    </tr>
-    <tr>
-      <td style="text-align: center;">DAY 50 - 2025.07.16 (Morning)</td>
-      <td style="text-align: center;">To Be Done</td>
-      <td style="text-align: center;">To Be Done</td>
-      <td style="text-align: center;">To Be Done</td>
-    </tr>
-    <tr>
-      <td style="text-align: center;">DAY 51 - 2025.07.16 (Evening)</td>
-      <td style="text-align: center;">To Be Done</td>
-      <td style="text-align: center;">To Be Done</td>
-      <td style="text-align: center;">To Be Done</td>
-    </tr>
-    <tr>
-      <td style="text-align: center;">DAY 52 - 2025.07.17 (Morning)</td>
-      <td style="text-align: center;">To Be Done</td>
-      <td style="text-align: center;">To Be Done</td>
-      <td style="text-align: center;">To Be Done</td>
-    </tr>
-    <tr>
-      <td style="text-align: center;">DAY 53 - 2025.07.17 (Evening)</td>
-      <td style="text-align: center;">To Be Done</td>
-      <td style="text-align: center;">To Be Done</td>
-      <td style="text-align: center;">To Be Done</td>
-    </tr>
-    <tr>
-      <td style="text-align: center;">DAY 54 - 2025.07.18 (Morning)</td>
-      <td style="text-align: center;">To Be Done</td>
-      <td style="text-align: center;">To Be Done</td>
-      <td style="text-align: center;">To Be Done</td>
-    </tr>
-    <tr>
-      <td style="text-align: center;">DAY 55 - 2025.07.18 (Evening)</td>
-      <td style="text-align: center;">To Be Done</td>
-      <td style="text-align: center;">To Be Done</td>
-      <td style="text-align: center;">To Be Done</td>
-    </tr>
-    <tr>
-      <td style="text-align: center;">DAY 56 - 2025.07.21 (Morning)</td>
-      <td style="text-align: center;">To Be Done</td>
-      <td style="text-align: center;">To Be Done</td>
-      <td style="text-align: center;">To Be Done</td>
-    </tr>
-    <tr>
-      <td style="text-align: center;">DAY 57 - 2025.07.21 (Evening)</td>
-      <td style="text-align: center;">To Be Done</td>
-      <td style="text-align: center;">To Be Done</td>
-      <td style="text-align: center;">To Be Done</td>
-    </tr>
-    <tr>
-      <td style="text-align: center;">DAY 58 - 2025.07.22 (Morning)</td>
-      <td style="text-align: center;">To Be Done</td>
-      <td style="text-align: center;">To Be Done</td>
-      <td style="text-align: center;">To Be Done</td>
-    </tr>
-    <tr>
-      <td style="text-align: center;">DAY 59 - 2025.07.22 (Evening)</td>
-      <td style="text-align: center;">To Be Done</td>
-      <td style="text-align: center;">To Be Done</td>
-      <td style="text-align: center;">To Be Done</td>
-    </tr>
-    <tr>
-      <td style="text-align: center;">DAY 60 - 2025.07.23 (Morning)</td>
-      <td style="text-align: center;">To Be Done</td>
-      <td style="text-align: center;">To Be Done</td>
-      <td style="text-align: center;">To Be Done</td>
-    </tr>
-    <tr>
-      <td style="text-align: center;">DAY 61 - 2025.07.23 (Evening)</td>
-      <td style="text-align: center;">To Be Done</td>
-      <td style="text-align: center;">To Be Done</td>
-      <td style="text-align: center;">To Be Done</td>
-    </tr>
-    <tr>
-      <td style="text-align: center;"><strong>✅ FULL COMPLETED PROJECT (FRONTEND & BACKEND)</strong></td>
-      <td style="text-align: center;" colspan="3"><strong>🟩 FINAL PROJECT UNTIL NOW 🟩</strong></td>
-    </tr>
-  </tbody>
-</table>
+|    Date                       |   Frontend Folder   |    Backend Folder    |    Database Folder   |
+|:-----------------------------:|:-------------------:|:--------------------:|:--------------------:|
+| DAY 46 - 2025.07.14 (Morning) | `N/A`  | `N/A`   | [`Database ER Creation`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/database/DAY%2046%20-%202025.07.14%20(Morning)%20-%20Database%20ER%20Creation)  |
+| DAY 48 - 2025.07.15 (Morning) | [`Template assets, sign-up, sign-in, verify-account Designs`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/frontend/DAY%2048%20-%202025.07.15%20(Morning)%20-%20Template%20assets%2C%20sign-up%2C%20sign-in%2C%20verify-account%20html%20designs%2C%20Create%20sign-up.js)  | `Setup Hibernate, SignUp backend, Mail sending` | [`Database ER Update & Forward Engineer`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/database/DAY%2048%20-%202025.07.15%20(Morning)%20-%20Database%20ER%20Update%20%26%20Forward%20Engineer)  |
+| DAY 49 - 2025.07.15 (Evening) | [`Update sign-up.js`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/frontend/DAY%2049%20-%202025.07.15%20(Evening)%20-%20Same%20Morning%20Designs%20%2B%20Update%20sign-up.js) | `SignUp Validations Update` | `Same DB` |
+| DAY 50 - 2025.07.16 (Morning) | To Be Done  | To Be Done   | To Be Done  |
+| DAY 51 - 2025.07.16 (Evening) | To Be Done  | To Be Done   | To Be Done  |
+| DAY 52 - 2025.07.17 (Morning) | To Be Done  | To Be Done   | To Be Done  |
+| DAY 53 - 2025.07.17 (Evening) | To Be Done  | To Be Done   | To Be Done  |
+| DAY 54 - 2025.07.18 (Morning) | To Be Done  | To Be Done   | To Be Done  |
+| DAY 55 - 2025.07.18 (Evening) | To Be Done  | To Be Done   | To Be Done  |
+| DAY 56 - 2025.07.21 (Morning) | To Be Done  | To Be Done   | To Be Done  |
+| DAY 57 - 2025.07.21 (Evening) | To Be Done  | To Be Done   | To Be Done  |
+| DAY 58 - 2025.07.22 (Morning) | To Be Done  | To Be Done   | To Be Done  |
+| DAY 59 - 2025.07.22 (Evening) | To Be Done  | To Be Done   | To Be Done  |
+| DAY 60 - 2025.07.23 (Morning) | To Be Done  | To Be Done   | To Be Done  |
+| DAY 61 - 2025.07.23 (Evening) | To Be Done  | To Be Done   | To Be Done  |
+
+### FINAL PROJECT
+|    FULL COMPLETED PROJECT (with frontend & backend) until now `main` branch   |    Current Project   |
 
 
 ---

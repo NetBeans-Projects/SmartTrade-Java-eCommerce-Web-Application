@@ -35,101 +35,98 @@ This is the Structure I've uploaded daily progress of the Java Web Developement
   </thead>
   <tbody>
     <tr>
-      <td>DAY 46 - 2025.07.14 (Morning)</td>
-      <td>N/A</td>
-      <td>N/A</td>
-      <td>Database ER Creation</td>
+      <td style="text-align: center;">DAY 46 - 2025.07.14 (Morning)</td>
+      <td style="text-align: center;">N/A</td>
+      <td style="text-align: center;">N/A</td>
+      <td style="text-align: center;"><a href="https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/database/DAY%2046%20-%202025.07.14%20(Morning)%20-%20Database%20ER%20Creation">Database ER Creation</a></td>
     </tr>
     <tr>
-      <td>DAY 48 - 2025.07.15 (Morning)</td>
-      <td>To Be Done</td>
-      <td>To Be Done</td>
-      <td>Database ER Update & Forward Engineer</td>
+      <td style="text-align: center;">DAY 48 - 2025.07.15 (Morning)</td>
+      <td style="text-align: center;">To Be Done</td>
+      <td style="text-align: center;">To Be Done</td>
+      <td style="text-align: center;">Database ER Update & Forward Engineer</td>
     </tr>
     <tr>
-      <td>DAY 49 - 2025.07.15 (Evening)</td>
-      <td>To Be Done</td>
-      <td>To Be Done</td>
-      <td>To Be Done</td>
+      <td style="text-align: center;">DAY 49 - 2025.07.15 (Evening)</td>
+      <td style="text-align: center;">To Be Done</td>
+      <td style="text-align: center;">To Be Done</td>
+      <td style="text-align: center;">To Be Done</td>
     </tr>
     <tr>
-      <td>DAY 50 - 2025.07.16 (Morning)</td>
-      <td>To Be Done</td>
-      <td>To Be Done</td>
-      <td>To Be Done</td>
+      <td style="text-align: center;">DAY 50 - 2025.07.16 (Morning)</td>
+      <td style="text-align: center;">To Be Done</td>
+      <td style="text-align: center;">To Be Done</td>
+      <td style="text-align: center;">To Be Done</td>
     </tr>
     <tr>
-      <td>DAY 51 - 2025.07.16 (Evening)</td>
-      <td>To Be Done</td>
-      <td>To Be Done</td>
-      <td>To Be Done</td>
+      <td style="text-align: center;">DAY 51 - 2025.07.16 (Evening)</td>
+      <td style="text-align: center;">To Be Done</td>
+      <td style="text-align: center;">To Be Done</td>
+      <td style="text-align: center;">To Be Done</td>
     </tr>
     <tr>
-      <td>DAY 52 - 2025.07.17 (Morning)</td>
-      <td>To Be Done</td>
-      <td>To Be Done</td>
-      <td>To Be Done</td>
+      <td style="text-align: center;">DAY 52 - 2025.07.17 (Morning)</td>
+      <td style="text-align: center;">To Be Done</td>
+      <td style="text-align: center;">To Be Done</td>
+      <td style="text-align: center;">To Be Done</td>
     </tr>
     <tr>
-      <td>DAY 53 - 2025.07.17 (Evening)</td>
-      <td>To Be Done</td>
-      <td>To Be Done</td>
-      <td>To Be Done</td>
+      <td style="text-align: center;">DAY 53 - 2025.07.17 (Evening)</td>
+      <td style="text-align: center;">To Be Done</td>
+      <td style="text-align: center;">To Be Done</td>
+      <td style="text-align: center;">To Be Done</td>
     </tr>
     <tr>
-      <td>DAY 54 - 2025.07.18 (Morning)</td>
-      <td>To Be Done</td>
-      <td>To Be Done</td>
-      <td>To Be Done</td>
+      <td style="text-align: center;">DAY 54 - 2025.07.18 (Morning)</td>
+      <td style="text-align: center;">To Be Done</td>
+      <td style="text-align: center;">To Be Done</td>
+      <td style="text-align: center;">To Be Done</td>
     </tr>
     <tr>
-      <td>DAY 55 - 2025.07.18 (Evening)</td>
-      <td>To Be Done</td>
-      <td>To Be Done</td>
-      <td>To Be Done</td>
+      <td style="text-align: center;">DAY 55 - 2025.07.18 (Evening)</td>
+      <td style="text-align: center;">To Be Done</td>
+      <td style="text-align: center;">To Be Done</td>
+      <td style="text-align: center;">To Be Done</td>
     </tr>
     <tr>
-      <td>DAY 56 - 2025.07.21 (Morning)</td>
-      <td>To Be Done</td>
-      <td>To Be Done</td>
-      <td>To Be Done</td>
+      <td style="text-align: center;">DAY 56 - 2025.07.21 (Morning)</td>
+      <td style="text-align: center;">To Be Done</td>
+      <td style="text-align: center;">To Be Done</td>
+      <td style="text-align: center;">To Be Done</td>
     </tr>
     <tr>
-      <td>DAY 57 - 2025.07.21 (Evening)</td>
-      <td>To Be Done</td>
-      <td>To Be Done</td>
-      <td>To Be Done</td>
+      <td style="text-align: center;">DAY 57 - 2025.07.21 (Evening)</td>
+      <td style="text-align: center;">To Be Done</td>
+      <td style="text-align: center;">To Be Done</td>
+      <td style="text-align: center;">To Be Done</td>
     </tr>
     <tr>
-      <td>DAY 58 - 2025.07.22 (Morning)</td>
-      <td>To Be Done</td>
-      <td>To Be Done</td>
-      <td>To Be Done</td>
+      <td style="text-align: center;">DAY 58 - 2025.07.22 (Morning)</td>
+      <td style="text-align: center;">To Be Done</td>
+      <td style="text-align: center;">To Be Done</td>
+      <td style="text-align: center;">To Be Done</td>
     </tr>
     <tr>
-      <td>DAY 59 - 2025.07.22 (Evening)</td>
-      <td>To Be Done</td>
-      <td>To Be Done</td>
-      <td>To Be Done</td>
+      <td style="text-align: center;">DAY 59 - 2025.07.22 (Evening)</td>
+      <td style="text-align: center;">To Be Done</td>
+      <td style="text-align: center;">To Be Done</td>
+      <td style="text-align: center;">To Be Done</td>
     </tr>
     <tr>
-      <td>DAY 60 - 2025.07.23 (Morning)</td>
-      <td>To Be Done</td>
-      <td>To Be Done</td>
-      <td>To Be Done</td>
+      <td style="text-align: center;">DAY 60 - 2025.07.23 (Morning)</td>
+      <td style="text-align: center;">To Be Done</td>
+      <td style="text-align: center;">To Be Done</td>
+      <td style="text-align: center;">To Be Done</td>
     </tr>
     <tr>
-      <td>DAY 61 - 2025.07.23 (Evening)</td>
-      <td>To Be Done</td>
-      <td>To Be Done</td>
-      <td>To Be Done</td>
+      <td style="text-align: center;">DAY 61 - 2025.07.23 (Evening)</td>
+      <td style="text-align: center;">To Be Done</td>
+      <td style="text-align: center;">To Be Done</td>
+      <td style="text-align: center;">To Be Done</td>
     </tr>
     <tr>
-      <td colspan="4">---</td>
-    </tr>
-    <tr>
-      <td><strong>✅ FULL COMPLETED PROJECT (FRONTEND & BACKEND)</strong></td>
-      <td colspan="3"><strong>🟩 PROJECT FULLY MERGED — ALL COMPONENTS AVAILABLE</strong></td>
+      <td style="text-align: center;"><strong>✅ FULL COMPLETED PROJECT (FRONTEND & BACKEND)</strong></td>
+      <td style="text-align: center;" colspan="3"><strong>🟩 FINAL PROJECT UNTIL NOW 🟩</strong></td>
     </tr>
   </tbody>
 </table>

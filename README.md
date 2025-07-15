@@ -24,25 +24,113 @@ Do not:
 
 This is the Structure I've uploaded daily progress of the Java Web Developement
 
-|    Date                       |   Frontend Folder   |    Backend Folder    |    Database Folder   |
-|:-----------------------------:|:-------------------:|:--------------------:|:--------------------:|
-| DAY 46 - 2025.07.14 (Morning) | `N/A`  | `N/A`   | [`Database ER Creation`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/database/DAY%2046%20-%202025.07.14%20(Morning)%20-%20Database%20ER%20Creation)  |
-| DAY 48 - 2025.07.15 (Morning) | To Be Done  | To Be Done   | [`Database ER Update & Forward Engineer`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/database/DAY%2048%20-%202025.07.15%20(Morning)%20-%20Database%20ER%20Update%20%26%20Forward%20Engineer)  |
-| DAY 49 - 2025.07.15 (Evening) | To Be Done  | To Be Done   | To Be Done  |
-| DAY 50 - 2025.07.16 (Morning) | To Be Done  | To Be Done   | To Be Done  |
-| DAY 51 - 2025.07.16 (Evening) | To Be Done  | To Be Done   | To Be Done  |
-| DAY 52 - 2025.07.17 (Morning) | To Be Done  | To Be Done   | To Be Done  |
-| DAY 53 - 2025.07.17 (Evening) | To Be Done  | To Be Done   | To Be Done  |
-| DAY 54 - 2025.07.18 (Morning) | To Be Done  | To Be Done   | To Be Done  |
-| DAY 55 - 2025.07.18 (Evening) | To Be Done  | To Be Done   | To Be Done  |
-| DAY 56 - 2025.07.21 (Morning) | To Be Done  | To Be Done   | To Be Done  |
-| DAY 57 - 2025.07.21 (Evening) | To Be Done  | To Be Done   | To Be Done  |
-| DAY 58 - 2025.07.22 (Morning) | To Be Done  | To Be Done   | To Be Done  |
-| DAY 59 - 2025.07.22 (Evening) | To Be Done  | To Be Done   | To Be Done  |
-| DAY 60 - 2025.07.23 (Morning) | To Be Done  | To Be Done   | To Be Done  |
-| DAY 61 - 2025.07.23 (Evening) | To Be Done  | To Be Done   | To Be Done  |
-+===============================+=============+==============+=============+
-| FULL COMPLETED PROJECT (with frontend & backend) until now | <div style="text-align: center;"colspan="3">Merged Cell (2 columns)</div> |
+<table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Frontend Folder</th>
+      <th>Backend Folder</th>
+      <th>Database Folder</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>DAY 46 - 2025.07.14 (Morning)</td>
+      <td>N/A</td>
+      <td>N/A</td>
+      <td>Database ER Creation</td>
+    </tr>
+    <tr>
+      <td>DAY 48 - 2025.07.15 (Morning)</td>
+      <td>To Be Done</td>
+      <td>To Be Done</td>
+      <td>Database ER Update & Forward Engineer</td>
+    </tr>
+    <tr>
+      <td>DAY 49 - 2025.07.15 (Evening)</td>
+      <td>To Be Done</td>
+      <td>To Be Done</td>
+      <td>To Be Done</td>
+    </tr>
+    <tr>
+      <td>DAY 50 - 2025.07.16 (Morning)</td>
+      <td>To Be Done</td>
+      <td>To Be Done</td>
+      <td>To Be Done</td>
+    </tr>
+    <tr>
+      <td>DAY 51 - 2025.07.16 (Evening)</td>
+      <td>To Be Done</td>
+      <td>To Be Done</td>
+      <td>To Be Done</td>
+    </tr>
+    <tr>
+      <td>DAY 52 - 2025.07.17 (Morning)</td>
+      <td>To Be Done</td>
+      <td>To Be Done</td>
+      <td>To Be Done</td>
+    </tr>
+    <tr>
+      <td>DAY 53 - 2025.07.17 (Evening)</td>
+      <td>To Be Done</td>
+      <td>To Be Done</td>
+      <td>To Be Done</td>
+    </tr>
+    <tr>
+      <td>DAY 54 - 2025.07.18 (Morning)</td>
+      <td>To Be Done</td>
+      <td>To Be Done</td>
+      <td>To Be Done</td>
+    </tr>
+    <tr>
+      <td>DAY 55 - 2025.07.18 (Evening)</td>
+      <td>To Be Done</td>
+      <td>To Be Done</td>
+      <td>To Be Done</td>
+    </tr>
+    <tr>
+      <td>DAY 56 - 2025.07.21 (Morning)</td>
+      <td>To Be Done</td>
+      <td>To Be Done</td>
+      <td>To Be Done</td>
+    </tr>
+    <tr>
+      <td>DAY 57 - 2025.07.21 (Evening)</td>
+      <td>To Be Done</td>
+      <td>To Be Done</td>
+      <td>To Be Done</td>
+    </tr>
+    <tr>
+      <td>DAY 58 - 2025.07.22 (Morning)</td>
+      <td>To Be Done</td>
+      <td>To Be Done</td>
+      <td>To Be Done</td>
+    </tr>
+    <tr>
+      <td>DAY 59 - 2025.07.22 (Evening)</td>
+      <td>To Be Done</td>
+      <td>To Be Done</td>
+      <td>To Be Done</td>
+    </tr>
+    <tr>
+      <td>DAY 60 - 2025.07.23 (Morning)</td>
+      <td>To Be Done</td>
+      <td>To Be Done</td>
+      <td>To Be Done</td>
+    </tr>
+    <tr>
+      <td>DAY 61 - 2025.07.23 (Evening)</td>
+      <td>To Be Done</td>
+      <td>To Be Done</td>
+      <td>To Be Done</td>
+    </tr>
+    <tr>
+      <td><strong>✅ FULL COMPLETED PROJECT (Frontend & Backend)</strong></td>
+      <td colspan="3" style="text-align:center;"><strong>🟩 Project Fully Merged — All Components Available</strong></td>
+    </tr>
+  </tbody>
+</table>
+
 ---
 
 ## 🔗 Project Structure & Branches

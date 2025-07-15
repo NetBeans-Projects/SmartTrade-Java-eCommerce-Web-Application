@@ -24,13 +24,13 @@ Do not:
 
 This is the Structure I've uploaded daily progress of the Java Web Developement
 
-<table>
+<table style="text-align: center; width: 100%;">
   <thead>
     <tr>
-      <th>Date</th>
-      <th>Frontend Folder</th>
-      <th>Backend Folder</th>
-      <th>Database Folder</th>
+      <th style="text-align: center;">Date</th>
+      <th style="text-align: center;">Frontend Folder</th>
+      <th style="text-align: center;">Backend Folder</th>
+      <th style="text-align: center;">Database Folder</th>
     </tr>
   </thead>
   <tbody>
@@ -124,12 +124,13 @@ This is the Structure I've uploaded daily progress of the Java Web Developement
       <td>To Be Done</td>
       <td>To Be Done</td>
     </tr>
-    <tr>
-      <td><strong>✅ FULL COMPLETED PROJECT (Frontend & Backend)</strong></td>
-      <td colspan="3" style="text-align:center;"><strong>🟩 Project Fully Merged — All Components Available</strong></td>
+    <tr style="background-color: #e6ffe6;">
+      <td><strong>FULL COMPLETED PROJECT (Frontend & Backend)</strong></td>
+      <td colspan="3"><strong> Live Update Project</strong></td>
     </tr>
   </tbody>
 </table>
+
 
 ---
 

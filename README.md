@@ -4,6 +4,22 @@ SmartTrade is a full-stack eCommerce web application designed for buying and sel
 
 ---
 
+# Java Institute Coursework Project
+
+This project was developed as part of the coursework at **Java Institute** under the guidance of _Dr. Tharaka Sankalpa_ & _Mr. Anjana Dilhara_.
+
+🛑 **Access Restricted**
+> This project and all its contents are intended **only for Java Institute students** who are part of this course.
+
+Do not:
+- Redistribute
+- Modify and reupload
+- Use for commercial or public purposes
+
+© 2025 Java Institute – All Rights Reserved
+
+---
+
 ## 📅 Daily Progress Overview
 
 This is the Structure I've uploaded daily progress of the Java Web Developement
@@ -220,8 +236,10 @@ For questions or improvements, feel free to open an issue or contact [Jude Thame
 
 ## License
 
-This project is licensed under **JudeThamel License v1.0**.  
-Only personal and educational use is allowed. Commercial or modified use is strictly prohibited without written permission.
+This project is licensed under **Java Institute Coursework License v1.0**.
+  
+🛑 **Access Restricted**
+> This project and all its contents are intended **only for Java Institute students** who are part of this course.
 
 [View Full License](./LICENSE)
 

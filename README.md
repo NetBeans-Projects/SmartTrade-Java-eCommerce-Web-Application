@@ -26,8 +26,8 @@ This is the Structure I've uploaded daily progress of the Java Web Developement
 
 |    Date                       |   Frontend Folder   |    Backend Folder    |    Database Folder   |
 |:-----------------------------:|:-------------------:|:--------------------:|:--------------------:|
-| DAY 46 - 2025.07.14 (Morning) | `N/A`  | `N/A`   | `Database ER Creation`  |
-| DAY 48 - 2025.07.15 (Morning) | To Be Done  | To Be Done   | To Be Done  |
+| DAY 46 - 2025.07.14 (Morning) | `N/A`  | `N/A`   | [`Database ER Creation`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/database/DAY%2046%20-%202025.07.14%20(Morning)%20-%20Database%20ER%20Creation)  |
+| DAY 48 - 2025.07.15 (Morning) | To Be Done  | To Be Done   | [`Database ER Update & Forward Engineer`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/database/DAY%2048%20-%202025.07.15%20(Morning)%20-%20Database%20ER%20Update%20%26%20Forward%20Engineer)  |
 | DAY 49 - 2025.07.15 (Evening) | To Be Done  | To Be Done   | To Be Done  |
 | DAY 50 - 2025.07.16 (Morning) | To Be Done  | To Be Done   | To Be Done  |
 | DAY 51 - 2025.07.16 (Evening) | To Be Done  | To Be Done   | To Be Done  |
@@ -41,7 +41,7 @@ This is the Structure I've uploaded daily progress of the Java Web Developement
 | DAY 59 - 2025.07.22 (Evening) | To Be Done  | To Be Done   | To Be Done  |
 | DAY 60 - 2025.07.23 (Morning) | To Be Done  | To Be Done   | To Be Done  |
 | DAY 61 - 2025.07.23 (Evening) | To Be Done  | To Be Done   | To Be Done  |
-
+| FULL COMPLETED PROJECT (with frontend & backend) until now | <div style="text-align: center;"colspan="3">Merged Cell (2 columns)</div> |
 ---
 
 ## 🔗 Project Structure & Branches

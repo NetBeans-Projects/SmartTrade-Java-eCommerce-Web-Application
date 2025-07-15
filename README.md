@@ -41,6 +41,7 @@ This is the Structure I've uploaded daily progress of the Java Web Developement
 | DAY 59 - 2025.07.22 (Evening) | To Be Done  | To Be Done   | To Be Done  |
 | DAY 60 - 2025.07.23 (Morning) | To Be Done  | To Be Done   | To Be Done  |
 | DAY 61 - 2025.07.23 (Evening) | To Be Done  | To Be Done   | To Be Done  |
++===============================+=============+==============+=============+
 | FULL COMPLETED PROJECT (with frontend & backend) until now | <div style="text-align: center;"colspan="3">Merged Cell (2 columns)</div> |
 ---
 

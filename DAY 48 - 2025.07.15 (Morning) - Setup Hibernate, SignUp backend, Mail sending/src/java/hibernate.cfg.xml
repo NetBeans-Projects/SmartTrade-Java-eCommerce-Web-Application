@@ -10,7 +10,7 @@
         <property name="hibernate.connection.driver_class">com.mysql.cj.jdbc.Driver</property>
         <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/smart_trade?useSSL=false</property>
         <property name="hibernate.connection.username">root</property>
-        <property name="hibernate.connection.password">Judemysql@2004</property>
+        <property name="hibernate.connection.password">Password</property>
         <property name="hibernate.show_sql">true</property>
 
         <mapping class="hibernate.User" />

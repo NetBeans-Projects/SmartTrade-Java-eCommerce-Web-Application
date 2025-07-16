@@ -1,0 +1,6 @@
+
+# Hibernate secrets
+**/hibernate.properties
+
+# Mail config secrets
+**/mail.properties

@@ -24,27 +24,27 @@ Do not:
 
 This is the Structure I've uploaded daily progress of the Java Web Developement
 
-|    Date                       |   Frontend Folder   |    Backend Folder    |    Database Folder   |
-|:-----------------------------:|:-------------------:|:--------------------:|:--------------------:|
-| DAY 46 - 2025.07.14 (Morning) | `N/A`  | `N/A`   | [`Database ER Creation`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/database/DAY%2046%20-%202025.07.14%20(Morning)%20-%20Database%20ER%20Creation)  |
-| DAY 48 - 2025.07.15 (Morning) | [`Template assets, Add sign-up.html, sign-in.html, verify-account.html Designs, Create sign-up.js , Update sign-up.html`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/frontend/DAY%2048%20-%202025.07.15%20(Morning)%20-%20Template%20assets%2C%20sign-up%2C%20sign-in%2C%20verify-account%20html%20designs%2C%20Create%20sign-up.js)  | [`Setup Hibernate(add libs, create hibernate.cfg.xml, HibernateUtil.java), Create Hibernate Entity class User.java, SignUp.java backend, Mail sending, Create Util.java (REGEX & Validate Calculations)`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/backend/DAY%2048%20-%202025.07.15%20(Morning)%20-%20Setup%20Hibernate%2C%20SignUp%20backend%2C%20Mail%20sending) | [`Database ER Update & Forward Engineer`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/database/DAY%2048%20-%202025.07.15%20(Morning)%20-%20Database%20ER%20Update%20%26%20Forward%20Engineer)  |
-| DAY 49 - 2025.07.15 (Evening) | [`Update sign-up.js`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/frontend/DAY%2049%20-%202025.07.15%20(Evening)%20-%20Same%20Morning%20Designs%20%2B%20Update%20sign-up.js) | [`SignUp.java Validations Update Util.java`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/backend/DAY%2049%20-%202025.07.15%20(Evening)%20-%20SignUp%20Validations%20Update) | `Same DB` |
-| DAY 50 - 2025.07.16 (Morning) | `Update verify-account.html, Create verify-account.js, Update sign-in.html, Create sign-in.js, Create temporary index.html` | `Update SignUp.java HttpSession, Create VerifyAccount.java & SignIn.java` | `Same DB` |
-| DAY 51 - 2025.07.16 (Evening) | `Same Frontend files` | `Validate with "/sign-in/html, sign-up/html, verify-account.html" Web Filter (SessionFilter.java)` | `Same DB` |
-| DAY 52 - 2025.07.17 (Morning) - 8.00a.m to 10.00a.m - Part 01 | `Update temporary index.html (Sign Out button), Create sign-out.js` | `Create SignOut.java` | `Same DB` |
-| DAY 52 - 2025.07.17 (Morning) - 10.20a.m to 01.20p.m - Part 02 | `Removed Temporary index.html, Added & Updated index.html, my-account.html, Create my-account.js` | `Create Filter SignInCheckFilter.java, Create MyAccount.Java & CityData.java, Update Util.java` | `Same DB` |
-| DAY 53 - 2025.07.17 (Evening) | `Same Frontend files` | `Create Hibernate Entity class City.java & Address.java, Update hibernate.cfg.xml, Update MyAccount.Java, Create CityData.java` | `Same DB with data in user, city & address table data` |
-| DAY 54 - 2025.07.18 (Morning) | To Be Done  | To Be Done   | To Be Done  |
-| DAY 55 - 2025.07.18 (Evening) | To Be Done  | To Be Done   | To Be Done  |
-| DAY 56 - 2025.07.21 (Morning) | To Be Done  | To Be Done   | To Be Done  |
-| DAY 57 - 2025.07.21 (Evening) | To Be Done  | To Be Done   | To Be Done  |
-| DAY 58 - 2025.07.22 (Morning) | To Be Done  | To Be Done   | To Be Done  |
-| DAY 59 - 2025.07.22 (Evening) | To Be Done  | To Be Done   | To Be Done  |
-| DAY 60 - 2025.07.23 (Morning) | To Be Done  | To Be Done   | To Be Done  |
-| DAY 61 - 2025.07.23 (Evening) | To Be Done  | To Be Done   | To Be Done  |
+|    Date                       |   Frontend Folder   |    Backend Folder    |    Database Folder   |    Full Project   |
+|:-----------------------------:|:-------------------:|:--------------------:|:--------------------:|:-----------------:|
+| DAY 46 - 2025.07.14 (Morning) | `N/A`  | `N/A`   | [`Database ER Creation`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/database/DAY%2046%20-%202025.07.14%20(Morning)%20-%20Database%20ER%20Creation)  | **Click Here** |
+| DAY 48 - 2025.07.15 (Morning) | [`Template assets, Add sign-up.html, sign-in.html, verify-account.html Designs, Create sign-up.js , Update sign-up.html`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/frontend/DAY%2048%20-%202025.07.15%20(Morning)%20-%20Template%20assets%2C%20sign-up%2C%20sign-in%2C%20verify-account%20html%20designs%2C%20Create%20sign-up.js)  | [`Setup Hibernate(add libs, create hibernate.cfg.xml, HibernateUtil.java), Create Hibernate Entity class User.java, SignUp.java backend, Mail sending, Create Util.java (REGEX & Validate Calculations)`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/backend/DAY%2048%20-%202025.07.15%20(Morning)%20-%20Setup%20Hibernate%2C%20SignUp%20backend%2C%20Mail%20sending) | [`Database ER Update & Forward Engineer`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/database/DAY%2048%20-%202025.07.15%20(Morning)%20-%20Database%20ER%20Update%20%26%20Forward%20Engineer)  | **Click Here** |
+| DAY 49 - 2025.07.15 (Evening) | [`Update sign-up.js`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/frontend/DAY%2049%20-%202025.07.15%20(Evening)%20-%20Same%20Morning%20Designs%20%2B%20Update%20sign-up.js) | [`SignUp.java Validations Update Util.java`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/backend/DAY%2049%20-%202025.07.15%20(Evening)%20-%20SignUp%20Validations%20Update) | `Same DB` | **Click Here** |
+| DAY 50 - 2025.07.16 (Morning) | `Update verify-account.html, Create verify-account.js, Update sign-in.html, Create sign-in.js, Create temporary index.html` | `Update SignUp.java HttpSession, Create VerifyAccount.java & SignIn.java` | `Same DB` | **Click Here** |
+| DAY 51 - 2025.07.16 (Evening) | `Same Frontend files` | `Validate with "/sign-in/html, sign-up/html, verify-account.html" Web Filter (SessionFilter.java)` | `Same DB` | **Click Here** |
+| DAY 52 - 2025.07.17 (Morning) - 8.00a.m to 10.00a.m - Part 01 | `Update temporary index.html (Sign Out button), Create sign-out.js` | `Create SignOut.java` | `Same DB` | **Click Here** |
+| DAY 52 - 2025.07.17 (Morning) - 10.20a.m to 01.20p.m - Part 02 | `Removed Temporary index.html, Added & Updated index.html, my-account.html, Create my-account.js` | `Create Filter SignInCheckFilter.java, Create MyAccount.Java & CityData.java, Update Util.java` | `Same DB` | **Click Here** |
+| DAY 53 - 2025.07.17 (Evening) | `Same Frontend files` | `Create Hibernate Entity class City.java & Address.java, Update hibernate.cfg.xml, Update MyAccount.Java, Create CityData.java` | `Same DB with data in user, city & address table data` | **Click Here** |
+| DAY 54 - 2025.07.18 (Morning) | To Be Done  | To Be Done   | To Be Done  | **Click Here** |
+| DAY 55 - 2025.07.18 (Evening) | To Be Done  | To Be Done   | To Be Done  | **Click Here** |
+| DAY 56 - 2025.07.21 (Morning) | To Be Done  | To Be Done   | To Be Done  | **Click Here** |
+| DAY 57 - 2025.07.21 (Evening) | To Be Done  | To Be Done   | To Be Done  | **Click Here** |
+| DAY 58 - 2025.07.22 (Morning) | To Be Done  | To Be Done   | To Be Done  | **Click Here** |
+| DAY 59 - 2025.07.22 (Evening) | To Be Done  | To Be Done   | To Be Done  | **Click Here** |
+| DAY 60 - 2025.07.23 (Morning) | To Be Done  | To Be Done   | To Be Done  | **Click Here** |
+| DAY 61 - 2025.07.23 (Evening) | To Be Done  | To Be Done   | To Be Done  | **Click Here** |
 
 ### FINAL PROJECT
-|    FULL COMPLETED PROJECT (with frontend & backend) until now `main` branch   |    Current Project   |
+ !    FULL COMPLETED PROJECT (with frontend & backend) until now is on `main` branch   -    **Current Project**   
 
 
 ---

@@ -33,9 +33,9 @@ This is the Structure I've uploaded daily progress of the Java Web Developement
 | DAY 51 - 2025.07.16 (Evening) | `Same Frontend files` | `Validate with "/sign-in/html, sign-up/html, verify-account.html" Web Filter (SessionFilter.java)` | `Same DB` | **Click Here** |
 | DAY 52 - 2025.07.17 (Morning) - 8.00a.m to 10.00a.m - Part 01 | `Update temporary index.html (Sign Out button), Create sign-out.js` | `Create SignOut.java` | `Same DB` | **Click Here** |
 | DAY 52 - 2025.07.17 (Morning) - 10.20a.m to 01.20p.m - Part 02 | `Removed Temporary index.html, Added & Updated index.html, my-account.html, Create my-account.js` | `Create Filter SignInCheckFilter.java, Create MyAccount.Java & CityData.java, Update Util.java` | `Same DB` | **Click Here** |
-| DAY 53 - 2025.07.17 (Evening) | `Same Frontend files` | `Create Hibernate Entity class City.java & Address.java, Update hibernate.cfg.xml, Update MyAccount.Java, Create CityData.java` | `Same DB with data in user, city & address table data` | **Click Here** |
-| DAY 54 - 2025.07.18 (Morning) | To Be Done  | To Be Done   | To Be Done  | **Click Here** |
-| DAY 55 - 2025.07.18 (Evening) | To Be Done  | To Be Done   | To Be Done  | **Click Here** |
+| DAY 53 - 2025.07.17 (Evening) | `Update Same Frontend files` | `Create Hibernate Entity classes City.java & Address.java, Update hibernate.cfg.xml, Update MyAccount.Java, Create CityData.java` | `Same DB with data in user, city & address table data` | **Click Here** |
+| DAY 54 - 2025.07.18 (Morning) | `Update Same Frontend files (my-account.html, my-account.js), create product-listing.js` | `Create Hibernate Entity classes Brand.java, Model.java, Quality.java, Storage.java, Status.java, Color.java , Update hibernate.cfg.xml, Create LoadProductData.java & SaveProduct.java` | `brand, model, status, quality, storage, color table data update` | **Click Here** |
+| DAY 55 - 2025.07.18 (Evening) | `Update Same Frontend files (my-account.html, my-account.js)` | `Update MyAccount.java` | `address & password reset db` | **Click Here** |
 | DAY 56 - 2025.07.21 (Morning) | To Be Done  | To Be Done   | To Be Done  | **Click Here** |
 | DAY 57 - 2025.07.21 (Evening) | To Be Done  | To Be Done   | To Be Done  | **Click Here** |
 | DAY 58 - 2025.07.22 (Morning) | To Be Done  | To Be Done   | To Be Done  | **Click Here** |

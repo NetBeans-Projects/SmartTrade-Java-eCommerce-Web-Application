@@ -385,28 +385,44 @@ public class Mail {
 
 * Email App Password setting link - [**_Click Here_**](https://support.google.com/accounts/answer/185833)
 
-### Mail Sending Error Fix (Glassfish Library Update)
+### ✅ Mail Sending Error Fix (GlassFish Library Update)
 
-#### 1. First, Locate GlassFish Installed Location Path
+---
 
-* default common location - `C:\Users\DELL\GlassFish_Server\glassfish\`
+#### 🔍 1. Locate Your GlassFish Installation Path
 
-* if above path is not found, 
-   I - Go to your Netbeans IDE
-   II - Find `Services` group in IDE
-        (You can see it normally left side panel
-                         OR
-        You can get it using `Window` Tab -> `Services` 
-                         OR
-        Just Simply Use Keyboard Shortcut `Ctrl + 5` on **Windows** & `⌘-5` on **Mac**
-   III - In `Services` group find `Servers`->`GlassFish Server` Right Click on it and Go to the `Properties`.
-   IV - Find Your GlassFish Installation Location on - `Installation Location`
+**Default location (common):**  
+C:\Users\DELL\GlassFish_Server\glassfish\
 
-#### 2. Finally, Go this location Path and Replace the below given Library file
+If the above path is not found:
 
-* Default Location path to update library jar file (Go to the folder according to your location) -  `C:\Users\DELL\GlassFish_Server\glassfish\modules\endorsed`
+**Steps to find via NetBeans:**
 
--  `grizzly-npn-bootstrap.jar` - [Download Link](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/blob/libraries/GlassFish%20Server/Mail%20Sending%20Error%20Fix/grizzly-npn-bootstrap.jar) - [External Download link](https://repo1.maven.org/maven2/org/glassfish/grizzly/grizzly-npn-bootstrap/1.8.1/grizzly-npn-bootstrap-1.8.1.jar)
+1. Open NetBeans IDE.
+2. Go to the **Services** window:
+   - Left panel by default  
+   - OR via `Window` → `Services`  
+   - OR use shortcut:
+     - `Ctrl + 5` on **Windows**
+     - `⌘ + 5` on **Mac**
+3. Under **Services**, expand `Servers → GlassFish Server`.
+4. Right-click on **GlassFish Server** → choose **Properties**.
+5. Note the path under **Installation Location**.
+
+#### 🛠️ 2. Replace the Outdated Library JAR
+
+Go to the following path (based on your installation):
+
+C:\Users\DELL\GlassFish_Server\glassfish\modules\endorsed
+
+Replace the existing JAR:
+
+- 📄 **grizzly-npn-bootstrap.jar**  
+  🔗 [Download from GitHub](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/blob/libraries/GlassFish%20Server/Mail%20Sending%20Error%20Fix/grizzly-npn-bootstrap.jar)  
+  🔗 [Direct from Maven Central](https://repo1.maven.org/maven2/org/glassfish/grizzly/grizzly-npn-bootstrap/1.8.1/grizzly-npn-bootstrap-1.8.1.jar)
+
+
+* 📌 **Note:** This fixes SSL handshake or STARTTLS errors when using Gmail SMTP in JavaMail with GlassFish.
 
 ---
 

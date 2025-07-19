@@ -110,7 +110,7 @@ If you want to access the code as it existed on a specific date, you can browse 
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Structure (until 2025.07.18)
 
 ```directory
 
@@ -125,31 +125,59 @@ SmartTrade/
 │   │   └── js/
 │   │       ├── vendor/
 │   │       ├── main.js
+│   │       ├── my-account.js
 │   │       ├── notification.js
-│   │       └── sign-up.js
+│   │       ├── product-listing.js
+│   │       ├── sign-in.js
+│   │       ├── sign-out.js
+│   │       ├── sign-up.js
+│   │       └── verify-account.js
+│   ├── index.html
+│   ├── my-account.html
 │   ├── sign-in.html
 │   ├── sign-up.html
 │   └── verify-account.html
 ├── Source Packages/
-│   ├── (default package)/
+│   ├── <default package>/
 │   │   └── hibernate.cfg.xml
 │   ├── controller/
-│   │   └── SignUp.java
+│   │   ├── CityData.java
+│   │   ├── LoadProductData.java
+│   │   ├── MyAccount.java
+│   │   ├── SaveProduct.java
+│   │   ├── SignIn.java
+│   │   ├── SignOut.java
+│   │   ├── SignUp.java
+│   │   └── VerifyAccount.java
 │   ├── dto/  (this package removed from the project currently - 2025.07.18 update)
 │   │   └── User.java
 │   ├── hibernate/
+│   │   ├── Address.java
+│   │   ├── Brand.java
+│   │   ├── City.java
+│   │   ├── Color.java
 │   │   ├── HibernateUtil.java
+│   │   ├── Model.java
+│   │   ├── Quality.java
+│   │   ├── Status.java
+│   │   ├── Storage.java
 │   │   └── User.java
 │   └── model/
 │       ├── Mail.java
+│       ├── SessionFilter.java
+│       ├── SignInCheckFilter.java
 │       └── Util.java
 ├── Test Packages/
-│   └── (default package)/
-├── Libraries/
+│   └── <default package>/
+├── Libraries/  
+│   ├── ....jar (All library Dependencies files defined below in this file)
+│   ├── JDK 11 (Default)
+│   └── GlassFish Server
 ├── Test Libraries/
 └── Configuration Files/
     ├── MANIFEST.MF
     └── glassfish-web.xml
+
 ```
 
 ---

@@ -114,23 +114,42 @@ If you want to access the code as it existed on a specific date, you can browse 
 
 ```directory
 
-frontend/
-  └── index.html, styles.css, app.js
-
-backend/
-  ├── src/
-  │   ├── controller/         # Servlets (Insert, Search, etc.)
-  │   ├── hibernate/          # Entity Classes + HibernateUtil
-  │   └── model/              # (Optional business models)
-  ├── WebContent/
-  │   └── WEB-INF/web.xml
-  └── hibernate.cfg.xml
-
-database/
-  ├── er-diagram.png
-  └── smart_trade.sql
-
-```
+SmartTrade/
+├── Web Pages/
+│   ├── WEB-INF/
+│   │   └── glassfish-web.xml
+│   ├── assets/
+│   │   ├── css/
+│   │   ├── fonts/
+│   │   ├── images/
+│   │   └── js/
+│   │       ├── vendor/
+│   │       ├── main.js
+│   │       ├── notification.js
+│   │       └── sign-up.js
+│   ├── sign-in.html
+│   ├── sign-up.html
+│   └── verify-account.html
+├── Source Packages/
+│   ├── (default package)/
+│   │   └── hibernate.cfg.xml
+│   ├── controller/
+│   │   └── SignUp.java
+│   ├── dto/
+│   │   └── User.java
+│   ├── hibernate/
+│   │   ├── HibernateUtil.java
+│   │   └── User.java
+│   └── model/
+│       ├── Mail.java
+│       └── Util.java
+├── Test Packages/
+│   └── (default package)/
+├── Libraries/
+├── Test Libraries/
+└── Configuration Files/
+    ├── MANIFEST.MF
+    └── glassfish-web.xml
 
 ---
 

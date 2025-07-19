@@ -150,6 +150,7 @@ SmartTrade/
 └── Configuration Files/
     ├── MANIFEST.MF
     └── glassfish-web.xml
+```
 
 ---
 

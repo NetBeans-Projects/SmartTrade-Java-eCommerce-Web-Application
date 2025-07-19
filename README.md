@@ -58,6 +58,8 @@ This project is organized into three main branches:
 | [`frontend`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/frontend) | HTML/CSS/JavaScript based UI      |
 | [`backend`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/backend)  | Java Web backend (Servlet + Hibernate) |
 | [`database`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/database) | MySQL scripts + ER diagrams + Database Backups with data |
+| [`daily_project`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/daily_project) | Daily Completed Full Frontend + Backend Netbeans Project |
+| [`libraries`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/libraries) | Java Library Jar Files Used in Project Development |
 
 ---
 

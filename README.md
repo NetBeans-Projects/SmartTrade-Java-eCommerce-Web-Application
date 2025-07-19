@@ -392,7 +392,7 @@ public class Mail {
 #### 🔍 1. Locate Your GlassFish Installation Path
 
 **Default location (common):**  
-C:\Users\DELL\GlassFish_Server\glassfish\
+`C:\Users\DELL\GlassFish_Server\glassfish\`
 
 If the above path is not found:
 
@@ -413,7 +413,7 @@ If the above path is not found:
 
 Go to the following path (based on your installation):
 
-C:\Users\DELL\GlassFish_Server\glassfish\modules\endorsed
+`C:\Users\DELL\GlassFish_Server\glassfish\modules\endorsed`
 
 Replace the existing JAR:
 

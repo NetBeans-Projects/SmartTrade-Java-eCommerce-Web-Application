@@ -207,7 +207,7 @@ Make sure the following libraries are included in your `lib/` or classpath:
 
 ## ⚙️ Configuration Files
 
--
+--
 
 ### `src/hibernate.cfg.xml`
 

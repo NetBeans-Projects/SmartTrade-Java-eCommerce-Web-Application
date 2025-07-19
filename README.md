@@ -101,9 +101,11 @@ cd SmartTrade-Java-Web-eCommerce-Application
 Depending on what part of the project you want to work with, switch to the appropriate branch:
 
 ```bash
-git checkout frontend     # For frontend
-git checkout backend      # For backend
-git checkout database     # For database
+git checkout frontend        # For frontend
+git checkout backend         # For backend
+git checkout database        # For database
+git checkout daily_project   # For daily_project
+git checkout libraries       # For libraries
 ```
 
 ### 3. 3. View Previous Code Versions

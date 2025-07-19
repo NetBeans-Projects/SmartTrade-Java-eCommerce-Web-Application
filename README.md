@@ -57,7 +57,7 @@ This project is organized into three main branches:
 |------------|-----------------------------------|
 | [`frontend`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/frontend) | HTML/CSS/JavaScript based UI      |
 | [`backend`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/backend)  | Java Web backend (Servlet + Hibernate) |
-| [`database`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/database) | MySQL scripts + ER diagrams       |
+| [`database`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/database) | MySQL scripts + ER diagrams + Database Backups with data |
 
 ---
 
@@ -214,23 +214,23 @@ File: `smart_trade.sql`
 
 Make sure the following libraries are included in your `lib/` or classpath:
 
-- `gson-2.11.0.jar`
-- `antlr-2.7.7.jar`
-- `c3p0-0.9.2.1.jar`
-- `dom4j-1.6.1.jar`
-- `ehcache-core-2.4.3.jar`
-- `hibernate-c3p0-4.3.1.Final.jar`
-- `hibernate-commons-annotations-4.0.4.Final.jar`
-- `hibernate-core-4.3.1.Final.jar`
-- `hibernate-ehcache-4.3.1.Final.jar`
-- `hibernate-entitymanager-4.3.1.Final.jar`
-- `javassist-3.18.1-GA.jar`
-- `jboss-logging-3.1.3.GA.jar`
-- `jboss-transaction-api_1.2_spec-1.0.0.Final.jar`
-- `mchange-commons-java-0.2.3.4.jar`
-- `mysql-connector-j-8.4.0.jar`
-- `slf4j-api-1.6.1.jar`
-- `slf4j-simple-1.6.1.jar`
+- `gson-2.11.0.jar` - [Download Link](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/blob/libraries/JSON/gson-2.11.0.jar) - External Download Link
+- `antlr-2.7.7.jar` - [Download Link](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/blob/libraries/Hibernate/antlr-2.7.7.jar) - External Download Link
+- `c3p0-0.9.2.1.jar` - [Download Link](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/blob/libraries/Hibernate/c3p0-0.9.2.1.jar) - External Download Link
+- `dom4j-1.6.1.jar` - [Download Link](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/blob/libraries/Hibernate/dom4j-1.6.1.jar) - External Download Link
+- `ehcache-core-2.4.3.jar` - [Download Link](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/blob/libraries/Hibernate/ehcache-core-2.4.3.jar) - External Download Link
+- `hibernate-c3p0-4.3.1.Final.jar` - [Download Link](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/blob/libraries/Hibernate/hibernate-c3p0-4.3.1.Final.jar) - External Download Link
+- `hibernate-commons-annotations-4.0.4.Final.jar` - [Download Link](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/blob/libraries/Hibernate/hibernate-commons-annotations-4.0.4.Final.jar) - External Download Link
+- `hibernate-core-4.3.1.Final.jar` - [Download Link](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/blob/libraries/Hibernate/hibernate-core-4.3.1.Final.jar) - External Download Link
+- `hibernate-ehcache-4.3.1.Final.jar` - [Download Link](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/blob/libraries/Hibernate/hibernate-ehcache-4.3.1.Final.jar) - External Download Link
+- `hibernate-entitymanager-4.3.1.Final.jar` - [Download Link](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/blob/libraries/Hibernate/hibernate-entitymanager-4.3.1.Final.jar) - External Download Link
+- `javassist-3.18.1-GA.jar` - [Download Link](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/blob/libraries/Hibernate/javassist-3.18.1-GA.jar) - External Download Link
+- `jboss-logging-3.1.3.GA.jar` - [Download Link](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/blob/libraries/Hibernate/jboss-logging-3.1.3.GA.jar) - External Download Link
+- `jboss-transaction-api_1.2_spec-1.0.0.Final.jar` - [Download Link](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/blob/libraries/Hibernate/jboss-transaction-api_1.2_spec-1.0.0.Final.jar) - External Download Link
+- `mchange-commons-java-0.2.3.4.jar` - [Download Link](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/blob/libraries/Hibernate/mchange-commons-java-0.2.3.4.jar) - External Download Link
+- `mysql-connector-j-8.4.0.jar` - [Download Link](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/blob/libraries/Hibernate/mysql-connector-j-8.4.0.jar) - External Download Link
+- `slf4j-api-1.6.1.jar` - [Download Link](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/blob/libraries/Hibernate/slf4j-api-1.6.1.jar) - External Download Link
+- `slf4j-simple-1.6.1.jar` - [Download Link](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/blob/libraries/Hibernate/slf4j-simple-1.6.1.jar) - External Download Link
 
 ---
 
@@ -380,6 +380,31 @@ public class Mail {
 ```
 
 *Remember to - **YOUR EMAIL & YOUR EMAIL APP PASSWORD***
+
+* Email App Password setting link - [**_Click Here_**](https://support.google.com/accounts/answer/185833)
+
+### Mail Sending Error Fix (Glassfish Library Update)
+
+#### 1. First, Locate GlassFish Installed Location Path
+
+* default common location - `C:\Users\DELL\GlassFish_Server\glassfish\`
+
+* if above path is not found, 
+   I - Go to your Netbeans IDE
+   II - Find `Services` group in IDE
+        (You can see it normally left side panel
+                         OR
+        You can get it using `Window` Tab -> `Services` 
+                         OR
+        Just Simply Use Keyboard Shortcut `Ctrl + 5` on **Windows** & `⌘-5` on **Mac**
+   III - In `Services` group find `Servers`->`GlassFish Server` Right Click on it and Go to the `Properties`.
+   IV - Find Your GlassFish Installation Location on - `Installation Location`
+
+#### 2. Finally, Go this location Path and Replace the below given Library file
+
+* Default Location path to update library jar file (Go to the folder according to your location) -  `C:\Users\DELL\GlassFish_Server\glassfish\modules\endorsed`
+
+-  `grizzly-npn-bootstrap.jar` - [Download Link](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/blob/libraries/GlassFish%20Server/Mail%20Sending%20Error%20Fix/grizzly-npn-bootstrap.jar) - [External Download link](https://repo1.maven.org/maven2/org/glassfish/grizzly/grizzly-npn-bootstrap/1.8.1/grizzly-npn-bootstrap-1.8.1.jar)
 
 ---
 

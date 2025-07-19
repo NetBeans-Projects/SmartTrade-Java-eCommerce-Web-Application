@@ -24,7 +24,7 @@ Do not:
 
 This is the Structure I've uploaded daily progress of the Java Web Developement
 
-|    Date                       |   Frontend Folder   |    Backend Folder    |    Database Folder   |    Full Project   |
+|    Date                       |   Frontend Folder   |    Backend Folder    |    Database Folder   |    Daily Full Project   |
 |:-----------------------------:|:-------------------:|:--------------------:|:--------------------:|:-----------------:|
 | DAY 46 - 2025.07.14 (Morning) | `N / A`  | `N / A`   | [`Database ER Creation`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/database/DAY%2046%20-%202025.07.14%20(Morning)%20-%20Database%20ER%20Creation)  | **N / A** |
 | DAY 48 - 2025.07.15 (Morning) | [`Template assets, Add sign-up.html, sign-in.html, verify-account.html Designs, Create sign-up.js , Update sign-up.html`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/frontend/DAY%2048%20-%202025.07.15%20(Morning))  | [`Setup Hibernate(add libs, create hibernate.cfg.xml, HibernateUtil.java), Create Hibernate Entity class User.java, SignUp.java backend, Mail sending, Create Util.java (REGEX & Validate Calculations)`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/backend/DAY%2048%20-%202025.07.15%20(Morning)) | [`Database ER Update & Forward Engineer`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/database/DAY%2048%20-%202025.07.15%20(Morning)%20-%20Database%20ER%20Update%20%26%20Forward%20Engineer)  | **Click Here** |

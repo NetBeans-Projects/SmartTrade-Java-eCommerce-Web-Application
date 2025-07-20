@@ -26,16 +26,16 @@ This is the Structure I've uploaded daily progress of the Java Web Developement
 
 |    Date                       |   Frontend Folder   |    Backend Folder    |    Database Folder   |    Daily Full Project   |
 |:-----------------------------:|:-------------------:|:--------------------:|:--------------------:|:-----------------:|
-| DAY 46 - 2025.07.14 (Morning) | `N / A`  | `N / A`   | [`Database ER Creation`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/database/DAY%2046%20-%202025.07.14%20(Morning)%20-%20Database%20ER%20Creation)  | **N / A** |
-| DAY 48 - 2025.07.15 (Morning) | [`Template assets, Add sign-up.html, sign-in.html, verify-account.html Designs, Create sign-up.js , Update sign-up.html`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/frontend/DAY%2048%20-%202025.07.15%20(Morning))  | [`Setup Hibernate(add libs, create hibernate.cfg.xml, HibernateUtil.java), Create Hibernate Entity class User.java, SignUp.java backend, Mail sending, Create Util.java (REGEX & Validate Calculations)`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/backend/DAY%2048%20-%202025.07.15%20(Morning)) | [`Database ER Update & Forward Engineer`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/database/DAY%2048%20-%202025.07.15%20(Morning)%20-%20Database%20ER%20Update%20%26%20Forward%20Engineer)  | [**Click Here**](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/daily_project/1.%20SmartTrade%20full%202025.07.15) |
-| DAY 49 - 2025.07.15 (Evening) | [`Update sign-up.js`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/frontend/DAY%2049%20-%202025.07.15%20(Evening)) | [`SignUp.java Validations Update Util.java`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/backend/DAY%2049%20-%202025.07.15%20(Evening)) | [`Same DB`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/database/DAY%2049%20-%2052%20-%20Database) | [**Click Here**](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/daily_project/1.%20SmartTrade%20full%202025.07.15) |
-| DAY 50 - 2025.07.16 (Morning) | [`Update verify-account.html, Create verify-account.js, Update sign-in.html, Create sign-in.js, Create temporary index.html`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/frontend/DAY%2050%20-%202025.07.16%20(Morning)/Completed%20Frontend/web) | [`Update SignUp.java HttpSession, Create VerifyAccount.java & SignIn.java`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/backend/DAY%2050%20-%202025.07.16%20(Morning)) | [`Same DB`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/database/DAY%2049%20-%2052%20-%20Database) | [**Click Here**](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/daily_project/2.%20SmartTrade%20full%202025.07.16%20Morning) |
-| DAY 51 - 2025.07.16 (Evening) | [`Same Frontend files`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/frontend/DAY%2051%20-%202025.07.16%20(Evening)/Completed%20Frontend/web) | [`Validate with "/sign-in/html, sign-up/html, verify-account.html" Web Filter (SessionFilter.java)`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/backend/DAY%2051%20-%202025.07.16%20(Evening)) | [`Same DB`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/database/DAY%2049%20-%2052%20-%20Database) | [**Click Here**](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/daily_project/3.%20SmartTrade%20full%202025.07.16%20Final) |
-| DAY 52 - 2025.07.17 (Morning) - 8.00a.m to 10.00a.m - Part 01 | [`Update temporary index.html (Sign Out button), Create sign-out.js`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/frontend/DAY%2052%20-%202025.07.17%20(Morning)%20-%20Part%2001%20-%208.00a.m%20to%2010.00a.m/Completed%20Frontend/web) | [`Create SignOut.java`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/backend/DAY%2052%20-%202025.07.17%20(Morning)%20-%20Part%2001%20-%208.00a.m%20to%2010.00a.m) | [`Same DB`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/database/DAY%2049%20-%2052%20-%20Database) | [**Click Here**](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/daily_project/4.%20SmartTrade%20full%202025.07.17%20Morning%20Part%201) |
-| DAY 52 - 2025.07.17 (Morning) - 10.20a.m to 01.20p.m - Part 02 | [`Removed Temporary index.html, Added & Updated index.html, my-account.html, Create my-account.js`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/frontend/DAY%2052%20-%202025.07.17%20(Morning)%20-%20Part%2002%20-%2010.20a.m%20to%2001.20p.m) | [`Create Filter SignInCheckFilter.java, Create MyAccount.Java & CityData.java, Update Util.java`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/backend/DAY%2052%20-%202025.07.17%20(Morning)%20-%20Part%2002%20-%2010.20a.m%20to%2001.20p.m) | [`Same DB`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/database/DAY%2049%20-%2052%20-%20Database) | [**Click Here**](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/daily_project/5.%20SmartTrade%20full%202025.07.17%20Morning%20Part%202) |
-| DAY 53 - 2025.07.17 (Evening) | [`Update Same Frontend files`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/frontend/DAY%2053%20-%202025.07.17%20(Evening)/Completed%20Frontend/web) | [`Create Hibernate Entity classes City.java & Address.java, Update hibernate.cfg.xml, Update MyAccount.Java, Create CityData.java`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/backend/DAY%2053%20-%202025.07.17%20(Evening)) | [`Same DB with data in user, city & address table data`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/database/DAY%2053%20-%202025.07.17%20-%20Database%20with%20data) | [**Click Here**](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/daily_project/6.%20SmartTrade%20full%202025.07.17%20Final) |
-| DAY 54 - 2025.07.18 (Morning) | [`Update Same Frontend files (my-account.html, my-account.js), create product-listing.js`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/frontend/DAY%2054%20-%202025.07.18%20(Morning)/Completed%20Frontend/web) | [`Create Hibernate Entity classes Brand.java, Model.java, Quality.java, Storage.java, Status.java, Color.java , Update hibernate.cfg.xml, Create LoadProductData.java & SaveProduct.java`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/backend/DAY%2054%20-%202025.07.18%20(Morning)) | [`brand, model, status, quality, storage, color table data update`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/database/DAY%2054-55%20-%202025.07.18%20-%20Database%20with%20data) | [**Click Here**](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/daily_project/7.%20SmartTrade%20full%202025.07.18%20Morning) |
-| DAY 55 - 2025.07.18 (Evening) | [`Update Same Frontend files (my-account.html, my-account.js)`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/frontend/DAY%2055%20-%202025.07.18%20(Evening)) | [`Update MyAccount.java`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/backend/DAY%2055%20-%202025.07.18%20(Evening)) | [`address & password reset db update`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/database/DAY%2054-55%20-%202025.07.18%20-%20Database%20with%20data) | [**Click Here**](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/daily_project/8.%20SmartTrade%20full%202025.07.18%20Final) |
+| DAY 46 - 2025.07.14 (Morning) | `N / A`  | `N / A`   | [`Database ER Creation`](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/tree/database/DAY%2046%20-%202025.07.14%20(Morning)%20-%20Database%20ER%20Creation)  | **N / A** |
+| DAY 48 - 2025.07.15 (Morning) | [`Template assets, Add sign-up.html, sign-in.html, verify-account.html Designs, Create sign-up.js , Update sign-up.html`](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/tree/frontend/DAY%2048%20-%202025.07.15%20(Morning))  | [`Setup Hibernate(add libs, create hibernate.cfg.xml, HibernateUtil.java), Create Hibernate Entity class User.java, SignUp.java backend, Mail sending, Create Util.java (REGEX & Validate Calculations)`](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/tree/backend/DAY%2048%20-%202025.07.15%20(Morning)) | [`Database ER Update & Forward Engineer`](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/tree/database/DAY%2048%20-%202025.07.15%20(Morning)%20-%20Database%20ER%20Update%20%26%20Forward%20Engineer)  | [**Click Here**](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/tree/daily_project/1.%20SmartTrade%20full%202025.07.15) |
+| DAY 49 - 2025.07.15 (Evening) | [`Update sign-up.js`](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/tree/frontend/DAY%2049%20-%202025.07.15%20(Evening)) | [`SignUp.java Validations Update Util.java`](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/tree/backend/DAY%2049%20-%202025.07.15%20(Evening)) | [`Same DB`](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/tree/database/DAY%2049%20-%2052%20-%20Database) | [**Click Here**](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/tree/daily_project/1.%20SmartTrade%20full%202025.07.15) |
+| DAY 50 - 2025.07.16 (Morning) | [`Update verify-account.html, Create verify-account.js, Update sign-in.html, Create sign-in.js, Create temporary index.html`](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/tree/frontend/DAY%2050%20-%202025.07.16%20(Morning)/Completed%20Frontend/web) | [`Update SignUp.java HttpSession, Create VerifyAccount.java & SignIn.java`](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/tree/backend/DAY%2050%20-%202025.07.16%20(Morning)) | [`Same DB`](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/tree/database/DAY%2049%20-%2052%20-%20Database) | [**Click Here**](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/tree/daily_project/2.%20SmartTrade%20full%202025.07.16%20Morning) |
+| DAY 51 - 2025.07.16 (Evening) | [`Same Frontend files`](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/tree/frontend/DAY%2051%20-%202025.07.16%20(Evening)/Completed%20Frontend/web) | [`Validate with "/sign-in/html, sign-up/html, verify-account.html" Web Filter (SessionFilter.java)`](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/tree/backend/DAY%2051%20-%202025.07.16%20(Evening)) | [`Same DB`](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/tree/database/DAY%2049%20-%2052%20-%20Database) | [**Click Here**](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/tree/daily_project/3.%20SmartTrade%20full%202025.07.16%20Final) |
+| DAY 52 - 2025.07.17 (Morning) - 8.00a.m to 10.00a.m - Part 01 | [`Update temporary index.html (Sign Out button), Create sign-out.js`](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/tree/frontend/DAY%2052%20-%202025.07.17%20(Morning)%20-%20Part%2001%20-%208.00a.m%20to%2010.00a.m/Completed%20Frontend/web) | [`Create SignOut.java`](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/tree/backend/DAY%2052%20-%202025.07.17%20(Morning)%20-%20Part%2001%20-%208.00a.m%20to%2010.00a.m) | [`Same DB`](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/tree/database/DAY%2049%20-%2052%20-%20Database) | [**Click Here**](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/tree/daily_project/4.%20SmartTrade%20full%202025.07.17%20Morning%20Part%201) |
+| DAY 52 - 2025.07.17 (Morning) - 10.20a.m to 01.20p.m - Part 02 | [`Removed Temporary index.html, Added & Updated index.html, my-account.html, Create my-account.js`](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/tree/frontend/DAY%2052%20-%202025.07.17%20(Morning)%20-%20Part%2002%20-%2010.20a.m%20to%2001.20p.m) | [`Create Filter SignInCheckFilter.java, Create MyAccount.Java & CityData.java, Update Util.java`](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/tree/backend/DAY%2052%20-%202025.07.17%20(Morning)%20-%20Part%2002%20-%2010.20a.m%20to%2001.20p.m) | [`Same DB`](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/tree/database/DAY%2049%20-%2052%20-%20Database) | [**Click Here**](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/tree/daily_project/5.%20SmartTrade%20full%202025.07.17%20Morning%20Part%202) |
+| DAY 53 - 2025.07.17 (Evening) | [`Update Same Frontend files`](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/tree/frontend/DAY%2053%20-%202025.07.17%20(Evening)/Completed%20Frontend/web) | [`Create Hibernate Entity classes City.java & Address.java, Update hibernate.cfg.xml, Update MyAccount.Java, Create CityData.java`](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/tree/backend/DAY%2053%20-%202025.07.17%20(Evening)) | [`Same DB with data in user, city & address table data`](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/tree/database/DAY%2053%20-%202025.07.17%20-%20Database%20with%20data) | [**Click Here**](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/tree/daily_project/6.%20SmartTrade%20full%202025.07.17%20Final) |
+| DAY 54 - 2025.07.18 (Morning) | [`Update Same Frontend files (my-account.html, my-account.js), create product-listing.js`](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/tree/frontend/DAY%2054%20-%202025.07.18%20(Morning)/Completed%20Frontend/web) | [`Create Hibernate Entity classes Brand.java, Model.java, Quality.java, Storage.java, Status.java, Color.java , Update hibernate.cfg.xml, Create LoadProductData.java & SaveProduct.java`](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/tree/backend/DAY%2054%20-%202025.07.18%20(Morning)) | [`brand, model, status, quality, storage, color table data update`](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/tree/database/DAY%2054-55%20-%202025.07.18%20-%20Database%20with%20data) | [**Click Here**](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/tree/daily_project/7.%20SmartTrade%20full%202025.07.18%20Morning) |
+| DAY 55 - 2025.07.18 (Evening) | [`Update Same Frontend files (my-account.html, my-account.js)`](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/tree/frontend/DAY%2055%20-%202025.07.18%20(Evening)) | [`Update MyAccount.java`](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/tree/backend/DAY%2055%20-%202025.07.18%20(Evening)) | [`address & password reset db update`](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/tree/database/DAY%2054-55%20-%202025.07.18%20-%20Database%20with%20data) | [**Click Here**](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/tree/daily_project/8.%20SmartTrade%20full%202025.07.18%20Final) |
 | DAY 56 - 2025.07.21 (Morning) | To Be Done  | To Be Done   | To Be Done  | **Click Here** |
 | DAY 57 - 2025.07.21 (Evening) | To Be Done  | To Be Done   | To Be Done  | **Click Here** |
 | DAY 58 - 2025.07.22 (Morning) | To Be Done  | To Be Done   | To Be Done  | **Click Here** |
@@ -44,7 +44,7 @@ This is the Structure I've uploaded daily progress of the Java Web Developement
 | DAY 61 - 2025.07.23 (Evening) | To Be Done  | To Be Done   | To Be Done  | **Click Here** |
 
 ### FINAL PROJECT
- !    FULL COMPLETED PROJECT (with frontend & backend) until now is on `main` branch   -    [**Current Project - 2025.07.18**](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/daily_project/8.%20SmartTrade%20full%202025.07.18%20Final)   
+ !    FULL COMPLETED PROJECT (with frontend & backend) until now is on `main` branch   -    [**Current Project - 2025.07.18**](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/tree/daily_project/8.%20SmartTrade%20full%202025.07.18%20Final)   
 
 
 ---
@@ -55,11 +55,11 @@ This project is organized into three main branches:
 
 | Branch     | Description                       |
 |------------|-----------------------------------|
-| [`frontend`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/frontend) | HTML/CSS/JavaScript based UI      |
-| [`backend`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/backend)  | Java Web backend (Servlet + Hibernate) |
-| [`database`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/database) | MySQL scripts + ER diagrams + Database Backups with data |
-| [`daily_project`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/daily_project) | Daily Completed Full Frontend + Backend Netbeans Project |
-| [`libraries`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/libraries) | Java Library Jar Files Used in Project Development |
+| [`frontend`](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/tree/frontend) | HTML/CSS/JavaScript based UI      |
+| [`backend`](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/tree/backend)  | Java Web backend (Servlet + Hibernate) |
+| [`database`](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/tree/database) | MySQL scripts + ER diagrams + Database Backups with data |
+| [`daily_project`](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/tree/daily_project) | Daily Completed Full Frontend + Backend Netbeans Project |
+| [`libraries`](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/tree/libraries) | Java Library Jar Files Used in Project Development |
 
 ---
 
@@ -92,8 +92,8 @@ This project is organized into three main branches:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application.git
-cd SmartTrade-Java-Web-eCommerce-Application
+git clone https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application.git
+cd SmartTrade-Java-eCommerce-Web-Application
 ```
 
 ### 2. Switch to the Desired Branch
@@ -206,9 +206,9 @@ File: `smart_trade.sql`
 
 ## 🧪 Run the App
 
-* Use NetBeans or IntelliJ with GlassFish/Tomcat to deploy the [`backend`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/backend) project.
+* Use NetBeans or IntelliJ with GlassFish/Tomcat to deploy the [`backend`](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/tree/backend) project.
 
-* Serve [`frontend`](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/tree/frontend) files using a simple web server or directly through browser.
+* Serve [`frontend`](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/tree/frontend) files using a simple web server or directly through browser.
 
 * Ensure database is running and accessible.
 
@@ -223,73 +223,73 @@ Make sure the following libraries are included in your `lib/` or classpath:
 #### ✅ JSON Library
 
 - `gson-2.11.0.jar`  
-  🔗 [Download Link (GitHub)](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/blob/libraries/JSON/gson-2.11.0.jar)  
+  🔗 [Download Link (GitHub)](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/blob/libraries/JSON/gson-2.11.0.jar)  
   🌐 [External Download Link](https://repo1.maven.org/maven2/com/google/code/gson/gson/2.11.0/gson-2.11.0.jar)
 
 #### ✅ Hibernate + Database Related Libraries
 
 - `antlr-2.7.7.jar`  
-  🔗 [Download Link (GitHub)](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/blob/libraries/Hibernate/antlr-2.7.7.jar)  
+  🔗 [Download Link (GitHub)](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/blob/libraries/Hibernate/antlr-2.7.7.jar)  
   🌐 [External Download Link](https://repo1.maven.org/maven2/antlr/antlr/2.7.7/antlr-2.7.7.jar)
 
 - `c3p0-0.9.2.1.jar`  
-  🔗 [Download Link (GitHub)](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/blob/libraries/Hibernate/c3p0-0.9.2.1.jar)  
+  🔗 [Download Link (GitHub)](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/blob/libraries/Hibernate/c3p0-0.9.2.1.jar)  
   🌐 [External Download Link](https://repo1.maven.org/maven2/com/mchange/c3p0/0.9.2.1/c3p0-0.9.2.1.jar)
 
 - `dom4j-1.6.1.jar`  
-  🔗 [Download Link (GitHub)](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/blob/libraries/Hibernate/dom4j-1.6.1.jar)  
+  🔗 [Download Link (GitHub)](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/blob/libraries/Hibernate/dom4j-1.6.1.jar)  
   🌐 [External Download Link](https://repo1.maven.org/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar)
 
 - `ehcache-core-2.4.3.jar`  
-  🔗 [Download Link (GitHub)](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/blob/libraries/Hibernate/ehcache-core-2.4.3.jar)  
+  🔗 [Download Link (GitHub)](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/blob/libraries/Hibernate/ehcache-core-2.4.3.jar)  
   🌐 [External Download Link](https://repo1.maven.org/maven2/net/sf/ehcache/ehcache-core/2.4.3/ehcache-core-2.4.3.jar)
 
 - `hibernate-c3p0-4.3.1.Final.jar`  
-  🔗 [Download Link (GitHub)](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/blob/libraries/Hibernate/hibernate-c3p0-4.3.1.Final.jar)  
+  🔗 [Download Link (GitHub)](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/blob/libraries/Hibernate/hibernate-c3p0-4.3.1.Final.jar)  
   🌐 [External Download Link](https://repo1.maven.org/maven2/org/hibernate/hibernate-c3p0/4.3.1.Final/hibernate-c3p0-4.3.1.Final.jar)
 
 - `hibernate-commons-annotations-4.0.4.Final.jar`  
-  🔗 [Download Link (GitHub)](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/blob/libraries/Hibernate/hibernate-commons-annotations-4.0.4.Final.jar)  
+  🔗 [Download Link (GitHub)](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/blob/libraries/Hibernate/hibernate-commons-annotations-4.0.4.Final.jar)  
   🌐 [External Download Link](https://repo1.maven.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.4.Final/hibernate-commons-annotations-4.0.4.Final.jar)
 
 - `hibernate-core-4.3.1.Final.jar`  
-  🔗 [Download Link (GitHub)](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/blob/libraries/Hibernate/hibernate-core-4.3.1.Final.jar)  
+  🔗 [Download Link (GitHub)](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/blob/libraries/Hibernate/hibernate-core-4.3.1.Final.jar)  
   🌐 [External Download Link](https://repo1.maven.org/maven2/org/hibernate/hibernate-core/4.3.1.Final/hibernate-core-4.3.1.Final.jar)
 
 - `hibernate-ehcache-4.3.1.Final.jar`  
-  🔗 [Download Link (GitHub)](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/blob/libraries/Hibernate/hibernate-ehcache-4.3.1.Final.jar)  
+  🔗 [Download Link (GitHub)](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/blob/libraries/Hibernate/hibernate-ehcache-4.3.1.Final.jar)  
   🌐 [External Download Link](https://repo1.maven.org/maven2/org/hibernate/hibernate-ehcache/4.3.1.Final/hibernate-ehcache-4.3.1.Final.jar)
 
 - `hibernate-entitymanager-4.3.1.Final.jar`  
-  🔗 [Download Link (GitHub)](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/blob/libraries/Hibernate/hibernate-entitymanager-4.3.1.Final.jar)  
+  🔗 [Download Link (GitHub)](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/blob/libraries/Hibernate/hibernate-entitymanager-4.3.1.Final.jar)  
   🌐 [External Download Link](https://repo1.maven.org/maven2/org/hibernate/hibernate-entitymanager/4.3.1.Final/hibernate-entitymanager-4.3.1.Final.jar)
 
 - `javassist-3.18.1-GA.jar`  
-  🔗 [Download Link (GitHub)](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/blob/libraries/Hibernate/javassist-3.18.1-GA.jar)  
+  🔗 [Download Link (GitHub)](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/blob/libraries/Hibernate/javassist-3.18.1-GA.jar)  
   🌐 [External Download Link](https://repo1.maven.org/maven2/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.jar)
 
 - `jboss-logging-3.1.3.GA.jar`  
-  🔗 [Download Link (GitHub)](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/blob/libraries/Hibernate/jboss-logging-3.1.3.GA.jar)  
+  🔗 [Download Link (GitHub)](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/blob/libraries/Hibernate/jboss-logging-3.1.3.GA.jar)  
   🌐 [External Download Link](https://repo1.maven.org/maven2/org/jboss/logging/jboss-logging/3.1.3.GA/jboss-logging-3.1.3.GA.jar)
 
 - `jboss-transaction-api_1.2_spec-1.0.0.Final.jar`  
-  🔗 [Download Link (GitHub)](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/blob/libraries/Hibernate/jboss-transaction-api_1.2_spec-1.0.0.Final.jar)  
+  🔗 [Download Link (GitHub)](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/blob/libraries/Hibernate/jboss-transaction-api_1.2_spec-1.0.0.Final.jar)  
   🌐 [External Download Link](https://repo1.maven.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.0.0.Final/jboss-transaction-api_1.2_spec-1.0.0.Final.jar)
 
 - `mchange-commons-java-0.2.3.4.jar`  
-  🔗 [Download Link (GitHub)](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/blob/libraries/Hibernate/mchange-commons-java-0.2.3.4.jar)  
+  🔗 [Download Link (GitHub)](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/blob/libraries/Hibernate/mchange-commons-java-0.2.3.4.jar)  
   🌐 [External Download Link](https://repo1.maven.org/maven2/com/mchange/mchange-commons-java/0.2.3.4/mchange-commons-java-0.2.3.4.jar)
 
 - `mysql-connector-j-8.4.0.jar`  
-  🔗 [Download Link (GitHub)](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/blob/libraries/Hibernate/mysql-connector-j-8.4.0.jar)  
+  🔗 [Download Link (GitHub)](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/blob/libraries/Hibernate/mysql-connector-j-8.4.0.jar)  
   🌐 [External Download Link](https://repo1.maven.org/maven2/com/mysql/mysql-connector-j/8.4.0/mysql-connector-j-8.4.0.jar)
 
 - `slf4j-api-1.6.1.jar`  
-  🔗 [Download Link (GitHub)](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/blob/libraries/Hibernate/slf4j-api-1.6.1.jar)  
+  🔗 [Download Link (GitHub)](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/blob/libraries/Hibernate/slf4j-api-1.6.1.jar)  
   🌐 [External Download Link](https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.6.1/slf4j-api-1.6.1.jar)
 
 - `slf4j-simple-1.6.1.jar`  
-  🔗 [Download Link (GitHub)](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/blob/libraries/Hibernate/slf4j-simple-1.6.1.jar)  
+  🔗 [Download Link (GitHub)](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/blob/libraries/Hibernate/slf4j-simple-1.6.1.jar)  
   🌐 [External Download Link](https://repo1.maven.org/maven2/org/slf4j/slf4j-simple/1.6.1/slf4j-simple-1.6.1.jar)
 
 ---
@@ -476,7 +476,7 @@ Go to the following path (based on your installation):
 Replace the existing JAR:
 
 - 📄 **grizzly-npn-bootstrap.jar**  
-  🔗 [Download from GitHub](https://github.com/NetBeans-Projects/SmartTrade-Java-Web-eCommerce-Application/blob/libraries/GlassFish%20Server/Mail%20Sending%20Error%20Fix/grizzly-npn-bootstrap.jar)  
+  🔗 [Download from GitHub](https://github.com/NetBeans-Projects/SmartTrade-Java-eCommerce-Web-Application/blob/libraries/GlassFish%20Server/Mail%20Sending%20Error%20Fix/grizzly-npn-bootstrap.jar)  
   🔗 [Direct from Maven Central](https://repo1.maven.org/maven2/org/glassfish/grizzly/grizzly-npn-bootstrap/1.8.1/grizzly-npn-bootstrap-1.8.1.jar)
 
 

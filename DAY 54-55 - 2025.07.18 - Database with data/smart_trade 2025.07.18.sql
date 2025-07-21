@@ -255,8 +255,8 @@ CREATE TABLE IF NOT EXISTS `status` (
 
 -- Dumping data for table smart_trade.status: ~2 rows (approximately)
 REPLACE INTO `status` (`id`, `value`) VALUES
-	(1, 'pending'),
-	(2, 'active');
+	(1, 'Pending'),
+	(2, 'Active');
 
 -- Dumping structure for table smart_trade.storage
 CREATE TABLE IF NOT EXISTS `storage` (

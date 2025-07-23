@@ -1,4 +1,4 @@
-<img width="867" height="76" alt="image" src="https://github.com/user-attachments/assets/ee8cdd0a-5b79-4070-bb95-ae11e735c454" /><img width="867" height="76" alt="image" src="https://github.com/user-attachments/assets/b2963c5b-98e9-4ab0-ac36-4663c002a1aa" /># 🛒 SmartTrade eCommerce Application
+# 🛒 SmartTrade eCommerce Application
 
 SmartTrade is a full-stack eCommerce web application designed for buying and selling products Using Java EE AKA Jakarta EE. It includes features like user authentication, product listing, advanced product search, cart checkout, and admin reporting.
 

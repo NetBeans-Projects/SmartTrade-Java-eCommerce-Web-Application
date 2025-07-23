@@ -6,7 +6,9 @@
   2. `sign-up.html`
   3. `verify-account.html`
   4. `index.html`
-  5. `my-account.js`
+  5. `my-account.html`
+  6. `single-product.html`
+  7. `search.html`
 
 ## JS
 
@@ -16,3 +18,5 @@
   4. `sign-out.js`
   5. `my-account.js`
   6. `product-listing.js`
+  7. `single-product.js`
+  8. `search.js`
